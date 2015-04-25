@@ -1,2 +1,5 @@
 # GettingAndCleaningData
-This is a respository for Coursera Getting and Cleaning Data Project
+
+This is a repository for Coursera Getting and Cleaning Data Project.
+
+
